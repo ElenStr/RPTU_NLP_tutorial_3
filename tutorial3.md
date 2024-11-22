@@ -222,4 +222,4 @@ The core idea of beam search is that on each step of the decoder, we want to kee
 
 [3] Bradney Smith [Self-Attention Explained with Code](https://towardsdatascience.com/contextual-transformer-embeddings-using-self-attention-explained-with-diagrams-and-python-code-d7a9f0f4d94e) (2024), Medium
 
-[4] Philip Lippe [Transformers and Multi-Head Attention](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial6/Transformers_and_MHAttention.html), 2022, University of Amsterdam
+[4] Philip Lippe [Transformers and Multi-Head Attention](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial6/Transformers_and_MHAttention.html), (2022), University of Amsterdam
